@@ -1,2 +1,2 @@
 # Mansi-s-Extension
-OverWorked.....Here is a joke for you
+I made a personal extension for getting randon jokes at any time. Will publish soon on Google Chrome Webstore for you all.
